@@ -1,0 +1,19 @@
+{
+  "name": "sonarqube-client",
+  "version": "1.0.0",
+  "description": "SonarQube client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-ricci/sonarqube-client.git"
+  },
+  "author": "Marco Ricci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-ricci/sonarqube-client/issues"
+  },
+  "homepage": "https://github.com/m-ricci/sonarqube-client#readme"
+}
